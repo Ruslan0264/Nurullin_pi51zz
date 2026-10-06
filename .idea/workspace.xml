@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="8">
-      <change afterPath="$PROJECT_DIR$/9 task.py" afterDir="false" />
+    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="9">
+      <change beforePath="$PROJECT_DIR$/9 task.py" beforeDir="false" afterPath="$PROJECT_DIR$/9 task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791308389183</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="9">
+      <option name="closed" value="true" />
+      <created>1791308855458</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1791308855458</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +196,7 @@
     <MESSAGE value="6" />
     <MESSAGE value="7" />
     <MESSAGE value="8" />
-    <option name="LAST_COMMIT_MESSAGE" value="8" />
+    <MESSAGE value="9" />
+    <option name="LAST_COMMIT_MESSAGE" value="9" />
   </component>
 </project>

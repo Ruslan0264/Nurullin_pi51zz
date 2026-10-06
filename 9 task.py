@@ -1,4 +1,6 @@
-one = 'Раз'
-two = 'Два'
-three = 'Три'
-print(*reversed((one, two, three)))
+one = input()
+two = input()
+three = input()
+print(three)
+print(two)
+print(one)

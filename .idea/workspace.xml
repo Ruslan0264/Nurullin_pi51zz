@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="6">
-      <change afterPath="$PROJECT_DIR$/7 task.py" afterDir="false" />
+    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="7">
+      <change afterPath="$PROJECT_DIR$/8 task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Python.4 task.executor": "Run",
     "Python.5 task.executor": "Run",
     "Python.6 task.executor": "Run",
+    "Python.7 task.executor": "Run",
     "Python.Hello world.executor": "Run",
     "Python.Nurullin_pi51zz.executor": "Run",
     "Python.Ura 3 raza.executor": "Run",
@@ -156,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791307803014</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="7">
+      <option name="closed" value="true" />
+      <created>1791308034657</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1791308034657</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +176,7 @@
     <MESSAGE value="4" />
     <MESSAGE value="5" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="7" />
+    <option name="LAST_COMMIT_MESSAGE" value="7" />
   </component>
 </project>

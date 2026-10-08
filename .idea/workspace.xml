@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="17">
-      <change afterPath="$PROJECT_DIR$/18 task.py" afterDir="false" />
+    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="18">
+      <change afterPath="$PROJECT_DIR$/19 task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,8 @@
     "Python.15 ask.executor": "Run",
     "Python.16 task.executor": "Run",
     "Python.17 task.executor": "Run",
+    "Python.18 task.executor": "Run",
+    "Python.19 task.executor": "Run",
     "Python.4 task.executor": "Run",
     "Python.5 task.executor": "Run",
     "Python.6 task.executor": "Run",
@@ -264,7 +266,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791441424052</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="18">
+      <option name="closed" value="true" />
+      <created>1791442006574</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1791442006574</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -286,6 +296,7 @@
     <MESSAGE value="15" />
     <MESSAGE value="16" />
     <MESSAGE value="17" />
-    <option name="LAST_COMMIT_MESSAGE" value="17" />
+    <MESSAGE value="18" />
+    <option name="LAST_COMMIT_MESSAGE" value="18" />
   </component>
 </project>

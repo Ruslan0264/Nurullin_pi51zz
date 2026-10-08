@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="16">
-      <change afterPath="$PROJECT_DIR$/17 task.py" afterDir="false" />
+    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="17">
+      <change afterPath="$PROJECT_DIR$/18 task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791440871499</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="17">
+      <option name="closed" value="true" />
+      <created>1791441424052</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1791441424052</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -277,6 +285,7 @@
     <MESSAGE value="14" />
     <MESSAGE value="15" />
     <MESSAGE value="16" />
-    <option name="LAST_COMMIT_MESSAGE" value="16" />
+    <MESSAGE value="17" />
+    <option name="LAST_COMMIT_MESSAGE" value="17" />
   </component>
 </project>

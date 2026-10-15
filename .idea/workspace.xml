@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="40" />
+    <list default="true" id="f33237d8-9637-4265-bdd9-5d455cf403b1" name="Changes" comment="44">
+      <change afterPath="$PROJECT_DIR$/45 task.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,14 +92,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1791304846818</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Nurullin">
-      <option name="closed" value="true" />
-      <created>1791305071155</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1791305071155</updated>
     </task>
     <task id="LOCAL-00002" summary="Nurullin">
       <option name="closed" value="true" />
@@ -459,14 +453,42 @@
       <option name="project" value="LOCAL" />
       <updated>1792045135499</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="41">
+      <option name="closed" value="true" />
+      <created>1792046067472</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1792046067472</updated>
+    </task>
+    <task id="LOCAL-00048" summary="42">
+      <option name="closed" value="true" />
+      <created>1792046116756</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1792046116756</updated>
+    </task>
+    <task id="LOCAL-00049" summary="43">
+      <option name="closed" value="true" />
+      <created>1792046203138</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1792046203138</updated>
+    </task>
+    <task id="LOCAL-00050" summary="44">
+      <option name="closed" value="true" />
+      <created>1792046245592</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1792046245593</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="16" />
-    <MESSAGE value="17" />
-    <MESSAGE value="18" />
-    <MESSAGE value="19" />
     <MESSAGE value="20" />
     <MESSAGE value="21" />
     <MESSAGE value="22" />
@@ -488,6 +510,10 @@
     <MESSAGE value="38" />
     <MESSAGE value="39" />
     <MESSAGE value="40" />
-    <option name="LAST_COMMIT_MESSAGE" value="40" />
+    <MESSAGE value="41" />
+    <MESSAGE value="42" />
+    <MESSAGE value="43" />
+    <MESSAGE value="44" />
+    <option name="LAST_COMMIT_MESSAGE" value="44" />
   </component>
 </project>
